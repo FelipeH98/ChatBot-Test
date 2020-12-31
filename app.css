@@ -1,0 +1,29 @@
+.btn-open-chat{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    background-color: #EE8600;
+}
+.btn-open-chat img{
+    width: 28px;
+}
+
+.no-display{
+    display: none;
+}
+
+.displayed{
+    display: block;
+}
+
+.card{
+    max-width: 500px;
+    margin: 40px auto 0 auto;
+    
+}
+
+#my-botui-app{
+    max-height: 300px;
+    overflow: auto;
+}
